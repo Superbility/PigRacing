@@ -1,8 +1,7 @@
-package com.superdevelopment.pigracing.race;
+package me.superbility.pigracing.race;
 
 import com.sk89q.worldedit.bukkit.selections.CuboidSelection;
-import com.superdevelopment.pigracing.listeners.checkpoint.CheckpointParticleHandler;
-import com.superdevelopment.pigracing.utils.HashmapKeyFromValue;
+import me.superbility.pigracing.listeners.checkpoint.CheckpointParticleHandler;
 import org.bukkit.entity.LivingEntity;
 import org.bukkit.entity.Player;
 

@@ -1,12 +1,12 @@
-package com.superdevelopment.pigracing.commands;
+package me.superbility.pigracing.commands;
 
 import com.sk89q.worldedit.bukkit.*;
 import com.sk89q.worldedit.bukkit.selections.*;
-import com.superdevelopment.pigracing.Main;
-import com.superdevelopment.pigracing.listeners.checkpoint.CheckPointPassEventListener;
-import com.superdevelopment.pigracing.race.PigRace;
-import com.superdevelopment.pigracing.race.customentity.CustomPig;
-import com.superdevelopment.pigracing.utils.LocationSerialiser;
+import me.superbility.pigracing.Main;
+import me.superbility.pigracing.listeners.checkpoint.CheckPointPassEventListener;
+import me.superbility.pigracing.race.PigRace;
+import me.superbility.pigracing.race.customentity.CustomPig;
+import me.superbility.pigracing.utils.LocationSerialiser;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
@@ -15,8 +15,6 @@ import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Pig;
 import org.bukkit.entity.Player;
 import org.bukkit.metadata.FixedMetadataValue;
-import org.bukkit.potion.PotionEffect;
-import org.bukkit.potion.PotionEffectType;
 
 import java.util.ArrayList;
 import java.util.Arrays;

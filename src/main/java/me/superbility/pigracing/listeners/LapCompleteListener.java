@@ -1,8 +1,8 @@
-package com.superdevelopment.pigracing.listeners;
+package me.superbility.pigracing.listeners;
 
-import com.superdevelopment.pigracing.Main;
-import com.superdevelopment.pigracing.listeners.checkpoint.CheckpointPassEvent;
-import com.superdevelopment.pigracing.race.Racer;
+import me.superbility.pigracing.Main;
+import me.superbility.pigracing.listeners.checkpoint.CheckpointPassEvent;
+import me.superbility.pigracing.race.Racer;
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;

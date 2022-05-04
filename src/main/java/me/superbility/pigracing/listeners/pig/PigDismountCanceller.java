@@ -1,12 +1,11 @@
-package com.superdevelopment.pigracing.listeners.pig;
+package me.superbility.pigracing.listeners.pig;
 
-import com.superdevelopment.pigracing.Main;
+import me.superbility.pigracing.Main;
 import net.md_5.bungee.api.ChatColor;
 import org.bukkit.entity.LivingEntity;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
-import org.bukkit.event.entity.EntityDamageEvent;
 import org.bukkit.event.vehicle.VehicleExitEvent;
 
 public class PigDismountCanceller implements Listener {

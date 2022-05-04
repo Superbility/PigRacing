@@ -1,4 +1,4 @@
-package com.superdevelopment.pigracing.utils;
+package me.superbility.pigracing.utils;
 
 import com.sk89q.worldedit.bukkit.selections.CuboidSelection;
 

@@ -1,8 +1,7 @@
-package com.superdevelopment.pigracing.listeners.checkpoint;
+package me.superbility.pigracing.listeners.checkpoint;
 
-import com.superdevelopment.pigracing.race.PigRace;
-import com.superdevelopment.pigracing.race.Racer;
-import org.bukkit.entity.Player;
+import me.superbility.pigracing.race.PigRace;
+import me.superbility.pigracing.race.Racer;
 import org.bukkit.event.Event;
 import org.bukkit.event.HandlerList;
 

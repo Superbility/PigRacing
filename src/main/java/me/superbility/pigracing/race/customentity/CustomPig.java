@@ -1,7 +1,6 @@
-package com.superdevelopment.pigracing.race.customentity;
+package me.superbility.pigracing.race.customentity;
 
 import net.minecraft.server.v1_8_R3.*;
-import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.craftbukkit.v1_8_R3.CraftWorld;
 import org.bukkit.craftbukkit.v1_8_R3.entity.CraftLivingEntity;

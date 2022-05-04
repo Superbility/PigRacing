@@ -1,7 +1,7 @@
-package com.superdevelopment.pigracing.listeners;
+package me.superbility.pigracing.listeners;
 
-import com.superdevelopment.pigracing.Main;
-import com.superdevelopment.pigracing.race.PigRace;
+import me.superbility.pigracing.Main;
+import me.superbility.pigracing.race.PigRace;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerQuitEvent;

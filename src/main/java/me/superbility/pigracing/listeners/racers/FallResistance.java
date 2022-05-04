@@ -1,8 +1,8 @@
-package com.superdevelopment.pigracing.listeners.racers;
+package me.superbility.pigracing.listeners.racers;
 
-import com.superdevelopment.pigracing.Main;
-import com.superdevelopment.pigracing.race.PigRace;
-import com.superdevelopment.pigracing.utils.RacerUtils;
+import me.superbility.pigracing.Main;
+import me.superbility.pigracing.race.PigRace;
+import me.superbility.pigracing.utils.RacerUtils;
 import org.bukkit.entity.LivingEntity;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;

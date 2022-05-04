@@ -1,4 +1,4 @@
-package com.superdevelopment.pigracing.utils;
+package me.superbility.pigracing.utils;
 
 import net.minecraft.server.v1_8_R3.ChatComponentText;
 import net.minecraft.server.v1_8_R3.PacketPlayOutChat;

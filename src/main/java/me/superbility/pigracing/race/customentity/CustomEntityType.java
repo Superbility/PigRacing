@@ -1,4 +1,4 @@
-package com.superdevelopment.pigracing.race.customentity;
+package me.superbility.pigracing.race.customentity;
 
 
 import net.minecraft.server.v1_8_R3.*;

@@ -1,6 +1,6 @@
 name: PigRacing
 version: '${project.version}'
-main: com.superdevelopment.pigracing.Main
+main: me.superbility.pigracing.Main
 load: POSTWORLD
 softdepend:
   - FastAsyncWorldEdit

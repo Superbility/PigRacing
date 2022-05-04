@@ -1,6 +1,6 @@
-package com.superdevelopment.pigracing.utils;
+package me.superbility.pigracing.utils;
 
-import com.superdevelopment.pigracing.race.Racer;
+import me.superbility.pigracing.race.Racer;
 import org.bukkit.entity.Player;
 
 import java.util.List;

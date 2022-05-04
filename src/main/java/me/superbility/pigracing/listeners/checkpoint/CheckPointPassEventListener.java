@@ -1,15 +1,13 @@
-package com.superdevelopment.pigracing.listeners.checkpoint;
+package me.superbility.pigracing.listeners.checkpoint;
 
 import com.sk89q.worldedit.bukkit.selections.CuboidSelection;
-import com.sk89q.worldedit.regions.CuboidRegion;
-import com.superdevelopment.pigracing.Main;
-import com.superdevelopment.pigracing.race.PigRace;
-import com.superdevelopment.pigracing.race.RaceState;
-import com.superdevelopment.pigracing.race.Racer;
-import com.superdevelopment.pigracing.utils.LocationSerialiser;
-import com.superdevelopment.pigracing.utils.RacerUtils;
+import me.superbility.pigracing.Main;
+import me.superbility.pigracing.race.PigRace;
+import me.superbility.pigracing.race.RaceState;
+import me.superbility.pigracing.race.Racer;
+import me.superbility.pigracing.utils.LocationSerialiser;
+import me.superbility.pigracing.utils.RacerUtils;
 import org.bukkit.Bukkit;
-import org.bukkit.ChatColor;
 import org.bukkit.Location;
 import org.bukkit.Sound;
 import org.bukkit.entity.Player;
@@ -17,7 +15,6 @@ import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerMoveEvent;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
