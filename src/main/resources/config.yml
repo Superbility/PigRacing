@@ -1,0 +1,36 @@
+Messages:
+  JoinRace:
+    - ""
+    - "&5=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
+    - "&dA Pig-Race is starting in &f{time} seconds!"
+    - "&dClear your inventory and click here to"
+    - "&djoin! Have fun racers!"
+    - "&5=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
+    - ""
+  InventoryNotEmpty: "&cYou can't join the race as your inventory is not empty!"
+  Joined:
+    - ""
+    - "&5=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
+    - "&dYou have joined the pig race! It will start"
+    - "&dsoon. To leave type &f/race leave&d!"
+    - "&5=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
+    - ""
+  JoinedBroadcast: "&d{player} &fhas joined the &drace&f! &d&oRacer {amount}"
+  Leave: "&cYou have left the race! :("
+  NoCurrentRace: "&cThere is no current race!"
+  AlreadyInRace: "&cYou are already in the race!"
+  NotInRace: "&cYou are not in the race!"
+  LapComplete: "&a&l&k000&r &dLap Complete! {lap}/3 &a&l&k000"
+  CompleteBroadcast: "&f&l&k000&r &d{player} has completed the race! &6#{position} &f&k&l000"
+  GoneTooFar: "&cGet back to the race track you! -_-"
+  DismountMessage: "&cGet back on that pig you! -_- If you wish to leave type /race leave"
+
+Actionbar:
+  Waiting: "&cRace starting soon. &8Players: {players}"
+  InProgress: "&aRace Started     &dLaps Completed: {laps}/3"
+  RaceCompleted: "&aYou have completed the race! Your position: {position}"
+
+Data:
+  WaitingLocation: null
+  StartLocation: null
+  Powerups: [ ]

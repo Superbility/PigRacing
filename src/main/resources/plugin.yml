@@ -1,0 +1,19 @@
+name: PigRacing
+version: '${project.version}'
+main: com.superdevelopment.pigracing.Main
+load: POSTWORLD
+softdepend:
+  - FastAsyncWorldEdit
+  - WorldEdit
+  - MultiverseCore
+commands:
+  race:
+    description: Main command
+    usage: /<command>
+    aliases:
+      - pr
+      - pigracing
+      - pigrace
+permissions:
+  pigrace.start:
+    description: Allows a player to start a pigrace
