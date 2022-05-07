@@ -8,7 +8,7 @@ At the end of the race a leaderboard will be presented, giving the top 3 players
 
 # Showcase
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://user-images.githubusercontent.com/75504654/167269565-2509757f-89e8-4431-bbd3-2325f953ab16.mov)
 
 Queue System:
 ![Queue System](https://user-images.githubusercontent.com/75504654/167269565-2509757f-89e8-4431-bbd3-2325f953ab16.mov)
