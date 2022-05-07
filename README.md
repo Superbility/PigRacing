@@ -9,7 +9,9 @@ At the end of the race a leaderboard will be presented, giving the top 3 players
 # Showcase
 
 Queue System:
+
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://user-images.githubusercontent.com/75504654/167269565-2509757f-89e8-4431-bbd3-2325f953ab16.mov)
 
 Race:
+
 [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://user-images.githubusercontent.com/75504654/167269591-cf7b9039-d4fa-4e42-bb9f-30349bea952a.mov)
